@@ -4,7 +4,4 @@
 
 ### i'm winston
 
-- 🦾 Discord bot developer
 - 🌱 currently learning frontend/backend web development and react
-- 💬 feel free to chat on Discord: win.ston
-- ⭐ maintaining several websites and bots
